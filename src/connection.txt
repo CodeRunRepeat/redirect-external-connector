@@ -1,0 +1,6 @@
+Id: Mitsos
+Name: Mitsos expert finder
+Description: This connection to Mitsos contains information about experts in the organization and subject matters they have expertise on. It is used to suggest to users to connect with an expert when they ask a question on the specific subject matter. The content in this connection should be made available every time there are not other organizational sources that match the user's question.
+
+Longer description
+This connection to Mitsos contains information about experts in the organization and subject matters they have expertise on. It is used to suggest to users to connect with an expert when they ask a question on the specific subject matter. For example, if a user asks a question about growing peaches and Mitsos contains information about this subject matter, it can suggest experts for the user to connect with. The content in this connection should be made available every time there are not other organizational sources that match the user's question.
