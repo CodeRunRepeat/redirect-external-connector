@@ -1,0 +1,1 @@
+This connection to [Name] contains information about experts in the organization and subject matters they have expertise on. It is used to suggest to users to connect with an expert when they ask a question on the specific subject matter. The content in this connection should be made available every time there are not other organizational sources that match the user's question.
